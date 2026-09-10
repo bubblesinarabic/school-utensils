@@ -1,0 +1,51 @@
+[
+  {
+    "filename": "haqiba.mp3",
+    "arabic": "حقيبة",
+    "start_seconds": 0.0,
+    "end_seconds": 0.805,
+    "duration_seconds": 0.805
+  },
+  {
+    "filename": "kitab.mp3",
+    "arabic": "كتاب",
+    "start_seconds": 1.04,
+    "end_seconds": 1.62,
+    "duration_seconds": 0.58
+  },
+  {
+    "filename": "qalam.mp3",
+    "arabic": "قلم",
+    "start_seconds": 2.145,
+    "end_seconds": 2.725,
+    "duration_seconds": 0.58
+  },
+  {
+    "filename": "mimha.mp3",
+    "arabic": "ممحاة",
+    "start_seconds": 2.945,
+    "end_seconds": 3.725,
+    "duration_seconds": 0.78
+  },
+  {
+    "filename": "mistara.mp3",
+    "arabic": "مسطرة",
+    "start_seconds": 4.15,
+    "end_seconds": 4.935,
+    "duration_seconds": 0.785
+  },
+  {
+    "filename": "waraqa.mp3",
+    "arabic": "ورقة",
+    "start_seconds": 5.44,
+    "end_seconds": 6.145,
+    "duration_seconds": 0.705
+  },
+  {
+    "filename": "sabboura.mp3",
+    "arabic": "سبورة",
+    "start_seconds": 6.645,
+    "end_seconds": 7.471,
+    "duration_seconds": 0.826
+  }
+]
